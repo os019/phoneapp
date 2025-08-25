@@ -1,0 +1,5 @@
+brand,condition,model,storage,color,cost_price,list_price,stock,reserved,tags,override_x,override_y,override_z
+Apple,New,iPhone 13,128GB,Black,45000,50000,10,2,"Bestseller, Premium",48000,49000,49500
+Samsung,Good,Galaxy S21,256GB,Silver,25000,30000,5,1,"Budget, Clearance",27000,28000,29000
+OnePlus,New,OnePlus 9,128GB,Blue,30000,35000,8,0,"Midrange",32000,33000,34000
+Xiaomi,Scrap,Redmi Note 10,64GB,Gray,8000,10000,15,5,"Budget",9000,9500,9700
